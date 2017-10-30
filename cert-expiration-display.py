@@ -37,8 +37,8 @@ def crypto_type_info(servername, portnum):
 	print("-----------------------------------------------------------------")
 	print(text_holder)
 			
-# display_cert_info(server_name, port_number)	
-crypto_type_info(server_name,port_number)
+display_cert_info(server_name, port_number)	
+# crypto_type_info(server_name,port_number)
 
 
 
